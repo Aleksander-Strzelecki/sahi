@@ -24,10 +24,10 @@ class Colors:
     # color palette
     def __init__(self):
         hex = (
-            "FF3838",
-            "2C99A8",
-            "FF701F",
-            "6473FF",
+            "FF0000",
+            "FFFF00",
+            "00FF00",
+            "0000FF",
             "CFD231",
             "48F90A",
             "92CC17",
